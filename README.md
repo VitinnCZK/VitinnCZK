@@ -2,7 +2,10 @@
 
 ###
 
-<p align="center">Olá! 👋 Sou Vítor Mello<br>Sou um Desenvolvedor Front-End com 18 anos, apaixonado por tecnologia, jogos e criação de interfaces impactantes. Sempre em busca de novos desafios e aprendizado, foco em desenvolver projetos inovadores que agreguem valor e proporcionem uma experiência única.<br><br>Atualmente, faço parte das equipe da Trigueiro Network, além de atuar como Freelancer independente nas horas vagas. Nessa empresa voltada ao mercado de FiveM e RedM, colaboro desenvolvendo interfaces responsivas e complexas, seguindo fielmente os requisitos do projeto, para entregar experiências visuais impactantes e funcionais à comunidade.<br>Vamos criar algo incrível juntos? 🚀</p>
+<p align="center">Olá! 👋 Sou Vítor Mello<br>Sou um Desenvolvedor Front-End com 18 anos, apaixonado por tecnologia, jogos e criação de interfaces impactantes. Sempre em busca de novos desafios e aprendizado, foco em desenvolver projetos inovadores que agreguem valor e proporcionem uma experiência única.<br><br>Atualmente, faço parte das equipe da Trigueiro Network, além de atuar como Freelancer independente nas horas vagas. Nessa empresa voltada ao mercado de FiveM e RedM, colaboro desenvolvendo interfaces responsivas e complexas, seguindo fielmente os requisitos do projeto, para entregar experiências visuais impactantes e funcionais à comunidade.<br><br>
+  🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade FIAP**.<br><br>
+  Vamos criar algo incrível juntos? 🚀
+</p></p>
 
 ###
 
