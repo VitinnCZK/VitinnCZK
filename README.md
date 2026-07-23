@@ -1,19 +1,18 @@
 <h2 align="left">🙋‍♂️ | Hello World</h2>
 
-###
-
-<p align="center">Olá! 👋 Sou Vítor Mello<br>Sou um Desenvolvedor Front-End com 18 anos, apaixonado por tecnologia, jogos e criação de interfaces impactantes. Sempre em busca de novos desafios e aprendizado, foco em desenvolver projetos inovadores que agreguem valor e proporcionem uma experiência única.<br><br>Atualmente, faço parte das equipe da Trigueiro Network, além de atuar como Freelancer independente nas horas vagas. Nessa empresa voltada ao mercado de FiveM e RedM, colaboro desenvolvendo interfaces responsivas e complexas, seguindo fielmente os requisitos do projeto, para entregar experiências visuais impactantes e funcionais à comunidade.<br><br>
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas<strong/> na <strong>Universidade FIAP<strong/>.<br><br>
-  Vamos criar algo incrível juntos? 🚀
-</p></p>
-
-###
+<p align="center">
+  👋 Olá! Sou o <strong>Vítor Mello</strong>, Desenvolvedor Front-End<br><br>
+  Curto tecnologia, jogos e criar interfaces que realmente funcionem bem pra quem usa.<br>
+  Trabalho como freelancer independente, desenvolvendo aplicações web com <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong> e <strong>TypeScript</strong>, sempre buscando entregar código limpo e interfaces responsivas.<br><br>
+  🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FIAP</strong> — atualmente no 4º semestre<br><br>
+  🔭 Sempre estudando algo novo e evoluindo como dev<br>
+  🚀 Aberto a novos projetos e oportunidades de colaboração
+</p>
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/VitinnCZK/VitinnCZK/output/snake.svg" alt="Snake animation" />
 
-###
+<h3 align="left">🛠️ | Tecnologias</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -47,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
-###
+<h3 align="left">🌐 | Redes</h3>
 
 <div align="left">
   <a href="https://www.youtube.com/@vitiinczk" target="_blank">
@@ -56,12 +55,7 @@
   <a href="https://www.instagram.com/dev.vitormello/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/vitiinczk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
   <a href="https://discord.gg/tWgHJ7MfhN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
